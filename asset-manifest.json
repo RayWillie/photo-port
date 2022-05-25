@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/RayWillie/photo-port/static/css/main.90e75332.chunk.css",
+    "main.js": "/RayWillie/photo-port/static/js/main.64a11af6.chunk.js",
+    "main.js.map": "/RayWillie/photo-port/static/js/main.64a11af6.chunk.js.map",
+    "runtime-main.js": "/RayWillie/photo-port/static/js/runtime-main.63d27ebe.js",
+    "runtime-main.js.map": "/RayWillie/photo-port/static/js/runtime-main.63d27ebe.js.map",
+    "static/js/2.9f927e1a.chunk.js": "/RayWillie/photo-port/static/js/2.9f927e1a.chunk.js",
+    "static/js/2.9f927e1a.chunk.js.map": "/RayWillie/photo-port/static/js/2.9f927e1a.chunk.js.map",
+    "static/js/3.3aeeb684.chunk.js": "/RayWillie/photo-port/static/js/3.3aeeb684.chunk.js",
+    "static/js/3.3aeeb684.chunk.js.map": "/RayWillie/photo-port/static/js/3.3aeeb684.chunk.js.map",
+    "index.html": "/RayWillie/photo-port/index.html",
+    "static/css/main.90e75332.chunk.css.map": "/RayWillie/photo-port/static/css/main.90e75332.chunk.css.map",
+    "static/js/2.9f927e1a.chunk.js.LICENSE.txt": "/RayWillie/photo-port/static/js/2.9f927e1a.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/RayWillie/photo-port/static/media/0.b18c130d.jpg",
+    "static/media/1.jpg": "/RayWillie/photo-port/static/media/1.ffe481f4.jpg",
+    "static/media/2.jpg": "/RayWillie/photo-port/static/media/2.da4d6061.jpg",
+    "static/media/3.jpg": "/RayWillie/photo-port/static/media/3.dd376ef9.jpg",
+    "static/media/4.jpg": "/RayWillie/photo-port/static/media/4.ed3b1a69.jpg",
+    "static/media/cover-image.533ae8f6.jpg": "/RayWillie/photo-port/static/media/cover-image.533ae8f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63d27ebe.js",
+    "static/js/2.9f927e1a.chunk.js",
+    "static/css/main.90e75332.chunk.css",
+    "static/js/main.64a11af6.chunk.js"
+  ]
+}
